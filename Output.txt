@@ -1,0 +1,114 @@
+PS C:\Users\kpbha\OneDrive\Desktop\Bank Application> javac Main.java
+PS C:\Users\kpbha\OneDrive\Desktop\Bank Application> java Main
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 1
+Enter Employee ID: 101
+Enter Employee Name: Bhargavi
+Enter Department: CEO OF THE BANK
+Enter Salary: 1000000
+Employee added successfully.
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 1
+Enter Employee ID: 102
+Enter Employee Name: Ashu
+Enter Department: Manager
+Enter Salary: 500000
+Employee added successfully.
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 1
+Enter Employee ID: 103
+Enter Employee Name: Kusma
+Enter Department: Cleark
+Enter Salary: 300000
+Employee added successfully.
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 2
+Enter Employee ID to view: 101
+Employee{id=101, name='Bhargavi', department='CEO OF THE BANK', salary=1000000.0}
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 3
+Enter Employee ID to update: 103
+Enter new Name (leave blank to keep unchanged): Revathi
+Enter new Department (leave blank to keep unchanged): multistaff
+Enter new Salary (or negative to keep unchanged): 20000
+Employee updated successfully.
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 2
+Enter Employee ID to view: 103
+Employee{id=103, name='Revathi', department='multistaff', salary=20000.0}
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 4
+Enter Employee ID to delete: 102
+Employee deleted successfully.
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 5
+All Employees:
+Employee{id=101, name='Bhargavi', department='CEO OF THE BANK', salary=1000000.0}
+Employee{id=103, name='Revathi', department='multistaff', salary=20000.0}
+
+**************** Welcome To Employee Management System ***********
+1. Add Employee
+2. View Employee
+3. Update Employee
+4. Delete Employee
+5. View All Employee
+6. Exit
+Enter your Choice: 6
+Thank you for using application!!
+
+PS C:\Users\kpbha\OneDrive\Desktop\Bank Application>
